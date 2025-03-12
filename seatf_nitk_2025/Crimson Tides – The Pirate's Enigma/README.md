@@ -1,0 +1,7 @@
+# Crimson Tides – The Pirate's Enigma
+From SeaTF @ NITK, 2025.
+
+## Problem Statement:
+In the vast digital ocean, a notorious pirate captain concealed his secret treasure within a cryptic artifact—a compiled app laden with decoys and hidden clues. Legends whisper of a fateful day when India’s valor shone through on the cricket field, with one batsman delivering three thunderous blows that changed the course of an epic clash, echoing through time like the distant roar of the sea. Your mission is to dive deep into this mysterious artifact. Disassemble its layers and follow subtle hints that recall the spirit of that legendary revenge day—a day when cricket became a battle of epic proportions, and every six hit resonated with the pride of a nation. Look for clues that are as elusive as a hidden treasure on a remote island, and let the echoes of those three defining strikes guide you to the secret embedded within the code. Chart your course through these turbulent digital waters, unravel the riddles left by the pirate captain, and claim the treasure that awaits the most determined explorer. The legacy of a cricketing hero and the undying spirit of India are woven into this enigma—will you be the one to uncover it? Good luck, brave explorer, Dont forget to enclose your final answer as `SeaTF{final_answer}`.
+
+Drive link https://drive.google.com/file/d/1n7KTvx-G6fpCki6iGzj7PQkSLsHQE8Kz/view?usp=sharing
