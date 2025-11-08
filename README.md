@@ -13,7 +13,7 @@ A repository for all my participated CTFs and my approach towards them.
 - [Space Wars](/seatf_nitk_2025/Space%20Wars/)
 </details>
 
-### CyberTea CTF Round 1 @ IIIT Sricity, 2025
+### 2. CyberTea CTF Round 1 @ IIIT Sricity, 2025
 [View Directory](/cybertea_ctf_r1/)
 <details>
 <summary>View Solved Problems</summary>
@@ -33,4 +33,12 @@ A repository for all my participated CTFs and my approach towards them.
 - [The Sealed Note](/cybertea_ctf_r1/The%20Sealed%20Note/)
 - [Trace The Ledger](/cybertea_ctf_r1/Trace%20The%20Ledger/)
 - [Welcome](/cybertea_ctf_r1/Welcome/)
+</details>
+
+### 3. Cipher Chase @ IIITB, 2025
+<details>
+<summary>View Solved Problems</summary>
+
+- [Py-Safe](/cipher_chase/Py-Safe/)
+- [Teasures of the World](/cipher_chase/Teasures%20of%20the%20World/)
 </details>
