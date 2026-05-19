@@ -1,0 +1,15 @@
+inside gdb:
+starti
+watch *(int*)0x555555558040
+c
+a5c3
+bt
+info registers rdi rsi
+p/x $rdi
+p/x ($rsi & 0xff8)
+
+in loop:
+set *(int*)0x555555558040 = 1
+set $rsi = 0
+finish
+c
